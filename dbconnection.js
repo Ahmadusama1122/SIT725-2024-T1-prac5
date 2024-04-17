@@ -1,4 +1,3 @@
-// dbconnection.js
 
 const { MongoClient } = require('mongodb');
 
